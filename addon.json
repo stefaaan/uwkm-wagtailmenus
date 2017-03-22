@@ -1,0 +1,8 @@
+{
+    "package-name": "uwkm-wagtailmenus",
+    "installed-apps": [
+        "wagtailmenus",
+        "wagtail.contrib.modeladmin"
+
+    ]
+}
