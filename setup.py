@@ -4,7 +4,7 @@ from uwkm_wagtailmenus import __version__
 
 
 setup(
-    name='wagtailmenus',
+    name='uwkm-wagtailmenus',
     version=__version__,
     description=open('README.rst').read(),
     author='Stefan Bomhof',
